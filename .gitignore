@@ -9,3 +9,4 @@
 .node-gyp/*
 .Xauthority
 .vim/.netrwhist
+projects/*
