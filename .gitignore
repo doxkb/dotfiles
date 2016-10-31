@@ -1,0 +1,11 @@
+*.log
+.viminfo
+.npm/*
+.ssh/*
+.config/*
+.bash_history
+.bash_logout
+.cache/*
+.node-gyp/*
+.Xauthority
+.vim/.netrwhist
