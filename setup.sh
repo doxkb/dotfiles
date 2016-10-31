@@ -1,10 +1,9 @@
-sudo pacman -Syu
-sudo -S nodejs
-sudo -S npm
-sudo -S vim
-sudo -S tmux
-sudo -S htop
-sudo -S screenfetch
-sudo -S lolcat
-sudo -S git
-git clone https://github.com/doxkb/dotfiles ~/
+pacman -Syu
+pacman -S nodejs
+pacman -S npm
+pacman -S vim
+pacman -S tmux
+pacman -S htop
+pacman -S screenfetch
+pacman -S lolcat
+pacman -S git
