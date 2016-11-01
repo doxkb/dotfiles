@@ -53,7 +53,7 @@ set updatetime=500
 execute pathogen#infect()
 
 set background=dark
-colorscheme solarized
+colorscheme molokai
 
 syntax on
 filetype plugin indent on
@@ -102,7 +102,7 @@ let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
 set laststatus=2
 set noshowmode
-let g:airline_theme='solarized'
+let g:airline_theme='molokai'
 "=============== AirLine Settings ===============
 
 nmap <C-n> :bp<cr>
